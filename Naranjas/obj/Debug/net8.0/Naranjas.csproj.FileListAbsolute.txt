@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Naranjas\bin\Debug\net8.0\Naranjas.exe
+D:\ADSO\5to trismestre\C#\Naranjas\bin\Debug\net8.0\Naranjas.deps.json
+D:\ADSO\5to trismestre\C#\Naranjas\bin\Debug\net8.0\Naranjas.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Naranjas\bin\Debug\net8.0\Naranjas.dll
+D:\ADSO\5to trismestre\C#\Naranjas\bin\Debug\net8.0\Naranjas.pdb
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.dll
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\refint\Naranjas.dll
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.pdb
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\Naranjas.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Naranjas\obj\Debug\net8.0\ref\Naranjas.dll

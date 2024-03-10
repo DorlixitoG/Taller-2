@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+SERQR9SKLcRNN7n6GRdPTOWDMbDFS+3cX27fNkp3f9ozmTfojKCOau1F5TpriFssxW9te4PqzbIAeiZpFYDPg==",
+  "success": true,
+  "projectFilePath": "D:\\ADSO\\5to trismestre\\C#\\Votos\\Votos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Sena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

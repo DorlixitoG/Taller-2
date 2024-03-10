@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\bin\Debug\net8.0\PromedioPesosN.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\bin\Debug\net8.0\PromedioPesosN.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\bin\Debug\net8.0\PromedioPesosN.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\bin\Debug\net8.0\PromedioPesosN.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\bin\Debug\net8.0\PromedioPesosN.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\refint\PromedioPesosN.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\PromedioPesosN.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\PromedioPesosN\PromedioPesosN\obj\Debug\net8.0\ref\PromedioPesosN.dll

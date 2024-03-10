@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Votos\bin\Debug\net7.0\Votos.exe
+D:\ADSO\5to trismestre\C#\Votos\bin\Debug\net7.0\Votos.deps.json
+D:\ADSO\5to trismestre\C#\Votos\bin\Debug\net7.0\Votos.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Votos\bin\Debug\net7.0\Votos.dll
+D:\ADSO\5to trismestre\C#\Votos\bin\Debug\net7.0\Votos.pdb
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.dll
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\refint\Votos.dll
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.pdb
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\Votos.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Votos\obj\Debug\net7.0\ref\Votos.dll

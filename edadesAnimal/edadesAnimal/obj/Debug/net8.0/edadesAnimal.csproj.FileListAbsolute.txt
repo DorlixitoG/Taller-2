@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\bin\Debug\net8.0\edadesAnimal.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\bin\Debug\net8.0\edadesAnimal.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\bin\Debug\net8.0\edadesAnimal.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\bin\Debug\net8.0\edadesAnimal.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\bin\Debug\net8.0\edadesAnimal.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\refint\edadesAnimal.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\edadesAnimal.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\edadesAnimal\edadesAnimal\obj\Debug\net8.0\ref\edadesAnimal.dll

@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\bin\Debug\net8.0\Carta.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\bin\Debug\net8.0\Carta.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\bin\Debug\net8.0\Carta.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\bin\Debug\net8.0\Carta.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\bin\Debug\net8.0\Carta.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\refint\Carta.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\Carta.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Carta\Carta\obj\Debug\net8.0\ref\Carta.dll

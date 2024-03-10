@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\refint\Calificaciones.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Calificaciones\Calificaciones\obj\Debug\net8.0\ref\Calificaciones.dll

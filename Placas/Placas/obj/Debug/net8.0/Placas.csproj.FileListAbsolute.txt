@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\bin\Debug\net8.0\Placas.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\bin\Debug\net8.0\Placas.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\bin\Debug\net8.0\Placas.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\bin\Debug\net8.0\Placas.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\bin\Debug\net8.0\Placas.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\refint\Placas.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\Placas.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\Taller #2\Placas\Placas\obj\Debug\net8.0\ref\Placas.dll

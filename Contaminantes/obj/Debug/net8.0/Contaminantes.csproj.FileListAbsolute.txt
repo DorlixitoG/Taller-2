@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Contaminantes\bin\Debug\net8.0\Contaminantes.exe
+D:\ADSO\5to trismestre\C#\Contaminantes\bin\Debug\net8.0\Contaminantes.deps.json
+D:\ADSO\5to trismestre\C#\Contaminantes\bin\Debug\net8.0\Contaminantes.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Contaminantes\bin\Debug\net8.0\Contaminantes.dll
+D:\ADSO\5to trismestre\C#\Contaminantes\bin\Debug\net8.0\Contaminantes.pdb
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.dll
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\refint\Contaminantes.dll
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.pdb
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\Contaminantes.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Contaminantes\obj\Debug\net8.0\ref\Contaminantes.dll
